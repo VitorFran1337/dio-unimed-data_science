@@ -59,7 +59,7 @@ e obter seu certificados dos diversos assuntos abordados.
   - [x] Modelo de Entidade Relacionamento com Banco de Dados
   - [x] Modelo de Relacionamento de Entidade Aprimorado com Banco de Dados
   - [x] [<b>Desafio</b> : Refinando um Projeto Conceitual de Banco de Dados - E-COMMERCE](https://github.com/VitorFran1337/dio-db-e_commerce)
-  - [ ] [<b>Desafio de Projeto</b> : Construindo um Esquema Conceitual para Banco de Dados](link-do-repositorio-aqui)
+  - [x] [<b>Desafio de Projeto</b> : Construindo um Esquema Conceitual para Banco de Dados](https://github.com/VitorFran1337/dio-unimed-workshop)
   - [ ] Modelo Relacional e Mapeamento Relacional com Banco de Dados
   - [ ] Primeiros Passos com SQL
   - [ ] Explorando Queries com SQL
