@@ -66,8 +66,9 @@ e obter seu certificados dos diversos assuntos abordados.
   - [ ] Criando Queries com Funções e Cláusulas de Agrupamento
   - [ ] Agrupando Registros e Tabelas com Join Statement
   - [ ] [<b>Desafio de Projeto</b> : Construindo seu Primeiro Projeto Lógico com Banco de Dados](link-do-repositorio)
-  - [ ] [<b>Desafio de PRojeto</b> : Construa um Projeto Lógico de Banco de Dados do Zero](link-do-repositorio)
+  - [ ] [<b>Desafio de Projeto</b> : Construa um Projeto Lógico de Banco de Dados do Zero](link-do-repositorio)
   - [ ] Introdução ao MongoDB e Banco de Dados NoSQL
+  - [ ] [<b>Desafio de Projeto</b> : O Papel do Banco de Dados SQL e NoSQL na Engenharia de Dados
   
     <br />
   </details>
