@@ -2,10 +2,8 @@
 
 <br>
 
-:brazil: - O Programa Geração Tech Unimed-BH é um programa concebido pela Digital Innovation One em parceria com a Unimed-BH, que oferece [cursos gratuitos](https://web.dio.me/track/geracao-tech-unimed-bh-fullstack). Nesta primeira edição, o bootcamp formará novos desenvolvedores fullstack nas tecnologias Javascript, MySQL, Angular e .NET. 
-Durante o bootcamp, iremos desenvolver projetos práticos, participando de mentorias ao vivo e exclusivas, 
-e obter seu certificados dos diversos assuntos abordados. Ao final do programa, a Unimed-BH espera contratar os melhores perfis para atuar 
-na região de Belo Horizonte.
+:brazil: - O Programa Geração Tech Unimed-BH é um programa concebido pela Digital Innovation One em parceria com a Unimed-BH, que oferece [cursos gratuitos](https://web.dio.me/track/geracao-tech-unimed-bh-ciencia-de-dados). Nesta segunda edição, o bootcamp formará novos cientistas de dados nas tecnologias Python, Machine Learning, MySQL, MongoDB e AWS. Durante o bootcamp, iremos desenvolver projetos práticos, participando de mentorias ao vivo e exclusivas, 
+e obter seu certificados dos diversos assuntos abordados.
 <br>
 
 ----
@@ -99,11 +97,3 @@ na região de Belo Horizonte.
   </blockquote>
   
   ----
-  
-<br>
-
-:us: - Generation Tech Unimed-BH is a program conceived by Digital Innovation One in collaboration with Unimed-BH, which offers [free courses](https://web.dio.me/track/geracao-tech-unimed-bh-fullstack). In this first edition, the bootcamp will train new fullstack developers in Javascript, MySQL, Angular and .NET technologies.
-During the bootcamp, we will develop practical projects, participate in live and exclusive mentorships, and obtain our certificates for the various subjects covered. At the end of the program, Unimed-BH expects to hire the best profiles to work in the Belo Horizonte region.
-<br>
-
-----
