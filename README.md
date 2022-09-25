@@ -12,12 +12,12 @@ e obter seu certificados dos diversos assuntos abordados.
 <details>
   <summary><strong>Prepare-se Para a Jornada (Onboarding)</strong></summary><br />
     
-  - [ ] Boas-vindas: Geração Tech Unimed BH
-  - [ ] Aula Inaugural
+  - [x] Boas-vindas: Geração Tech Unimed BH
+  - [x] Aula Inaugural
   - [x] Conheça as Oportunidades da DIO
   - [x] Seja Protagonista nesse Bootcamp
   - [x] Introodução ao Git e GitHub
-  - [ ] Como Entregar seu Desafio de Projeto
+  - [x] Como Entregar seu Desafio de Projeto
   - [x] <b>Desafio</b> : Criando o Repositório para compartilhar Seu Progresso
  
     <br />
@@ -25,12 +25,12 @@ e obter seu certificados dos diversos assuntos abordados.
  <details>
   <summary><strong>Python para Cientistas de Dados</strong></summary><br />
 
-  - [ ] Ambiente de Desenvolvimento e Primeiros Passos
-  - [ ] Conhecendo a Linguagem de Programação Python
-  - [ ] Tipos de Operadores com Python
-  - [ ] Estrutras Condicionais e de Repetição em Python
-  - [ ] Manipulação de Strings com Python
-  - [ ] <b>Desafio de Código</b> : Desafios Iniciais Py - Unimed-BH
+  - [x] Ambiente de Desenvolvimento e Primeiros Passos
+  - [x] Conhecendo a Linguagem de Programação Python
+  - [x] Tipos de Operadores com Python
+  - [x] Estrutras Condicionais e de Repetição em Python
+  - [x] Manipulação de Strings com Python
+  - [x] <b>Desafio de Código</b> : Desafios Iniciais Py - Unimed-BH
   - [ ] [<b>Desafio de Projeto</b> : Análise de dados com Python e Pandas](link-do-repositorio)
   - [ ] Trabalhando com Listas em Python
   - [ ] Conhecendo Tuplas em Python
@@ -60,15 +60,14 @@ e obter seu certificados dos diversos assuntos abordados.
   - [x] Modelo de Relacionamento de Entidade Aprimorado com Banco de Dados
   - [x] [<b>Desafio</b> : Refinando um Projeto Conceitual de Banco de Dados - E-COMMERCE](https://github.com/VitorFran1337/dio-db-e_commerce)
   - [x] [<b>Desafio de Projeto</b> : Construindo um Esquema Conceitual para Banco de Dados](https://github.com/VitorFran1337/dio-unimed-workshop)
-  - [ ] Modelo Relacional e Mapeamento Relacional com Banco de Dados
-  - [ ] Primeiros Passos com SQL
-  - [ ] Explorando Queries com SQL
-  - [ ] Criando Queries com Funções e Cláusulas de Agrupamento
-  - [ ] Agrupando Registros e Tabelas com Join Statement
-  - [ ] [<b>Desafio de Projeto</b> : Construindo seu Primeiro Projeto Lógico com Banco de Dados](link-do-repositorio)
-  - [ ] [<b>Desafio de Projeto</b> : Construa um Projeto Lógico de Banco de Dados do Zero](link-do-repositorio)
-  - [ ] Introdução ao MongoDB e Banco de Dados NoSQL
-  - [ ] [<b>Desafio de Projeto</b> : O Papel do Banco de Dados SQL e NoSQL na Engenharia de Dados
+  - [x] Modelo Relacional e Mapeamento Relacional com Banco de Dados
+  - [x] Primeiros Passos com SQL
+  - [x] Explorando Queries com SQL
+  - [x] Criando Queries com Funções e Cláusulas de Agrupamento
+  - [x] Agrupando Registros e Tabelas com Join Statement
+  - [ ] [<b>Desafio de Projeto</b> : Construindo seu Primeiro Projeto Lógico com Banco de Dados](https://github.com/VitorFran1337/dio-db-e_commerce)
+  - [ ] [<b>Desafio de Projeto</b> : Construa um Projeto Lógico de Banco de Dados do Zero](https://github.com/VitorFran1337/dio-unimed-workshop)
+  - [x] Introdução ao MongoDB e Banco de Dados NoSQL
   
     <br />
   </details>
