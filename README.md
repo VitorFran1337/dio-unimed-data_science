@@ -31,14 +31,14 @@ e obter seu certificados dos diversos assuntos abordados.
   - [x] Estrutras Condicionais e de Repetição em Python
   - [x] Manipulação de Strings com Python
   - [x] <b>Desafio de Código</b> : Desafios Iniciais Py - Unimed-BH
-  - [ ] [<b>Desafio de Projeto</b> : Análise de dados com Python e Pandas](link-do-repositorio)
-  - [ ] Trabalhando com Listas em Python
-  - [ ] Conhecendo Tuplas em Python
-  - [ ] Explorando Conjuntos em Python
-  - [ ] Aprendendo a Utilizar Dicionários em Python
-  - [ ] Dominando Funções em Python
-  - [ ] Fundamentos de ETL (Extract, Transform, Load) em Python
-  - [ ] Introdução à Programação Orientada a Objetos (POO) em Python
+  - [x] [<b>Desafio de Projeto</b> : Análise de dados com Python e Pandas](https://github.com/VitorFran1337/pandas_introduction)
+  - [x] Trabalhando com Listas em Python
+  - [x] Conhecendo Tuplas em Python
+  - [x] Explorando Conjuntos em Python
+  - [x] Aprendendo a Utilizar Dicionários em Python
+  - [x] Dominando Funções em Python
+  - [x] Fundamentos de ETL (Extract, Transform, Load) em Python
+  - [x] Introdução à Programação Orientada a Objetos (POO) em Python
   - [ ] Aprendendo o Conceito de Herança em Python
   - [ ] Aplicando Encapsulamento em Python
   - [ ] Conhecendo Polimorfismo em Python
