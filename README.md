@@ -39,12 +39,12 @@ e obter seu certificados dos diversos assuntos abordados.
   - [x] Dominando Funções em Python
   - [x] Fundamentos de ETL (Extract, Transform, Load) em Python
   - [x] Introdução à Programação Orientada a Objetos (POO) em Python
-  - [ ] Aprendendo o Conceito de Herança em Python
-  - [ ] Aplicando Encapsulamento em Python
-  - [ ] Conhecendo Polimorfismo em Python
-  - [ ] <b>Desafio de Código</b> : Desafios Intermediários Py - Unimed-BH
-  - [ ] [<b>Desafio de Projeto</b> : Descomplicando a Criação de Pacotes de Processamento de Imagens em Python](link-do-repositorio)
-  - [ ] [<b>Desafio de Projeto</b> : Criando Modelos com Python e Machine Learning para Prever a Evolução do COVID-19 no Brasil](link-do-repositorio)
+  - [x] Aprendendo o Conceito de Herança em Python
+  - [x] Aplicando Encapsulamento em Python
+  - [x] Conhecendo Polimorfismo em Python
+  - [x] <b>Desafio de Código</b> : Desafios Intermediários Py - Unimed-BH
+  - [x] [<b>Desafio de Projeto</b> : Descomplicando a Criação de Pacotes de Processamento de Imagens em Python](https://github.com/VitorFran1337/package-test-calculator)
+  - [x] [<b>Desafio de Projeto</b> : Criando Modelos com Python e Machine Learning para Prever a Evolução do COVID-19 no Brasil](https://github.com/VitorFran1337/pandas-covid-analysis)
 
     <br />
  </details>
@@ -86,7 +86,7 @@ e obter seu certificados dos diversos assuntos abordados.
    <details>
   <summary><strong>Machine Learning</strong></summary><br />
 
-  - [ ] Linguagens de Programação para Machine Learning
+  - [x] Linguagens de Programação para Machine Learning
   - [ ] Python para Machine Learning
   - [ ] R para Machine Learning
   - [ ] Entendendo Machine Learning com Amazon SageMaker
