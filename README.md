@@ -65,8 +65,8 @@ e obter seu certificados dos diversos assuntos abordados.
   - [x] Explorando Queries com SQL
   - [x] Criando Queries com Funções e Cláusulas de Agrupamento
   - [x] Agrupando Registros e Tabelas com Join Statement
-  - [ ] [<b>Desafio de Projeto</b> : Construindo seu Primeiro Projeto Lógico com Banco de Dados](https://github.com/VitorFran1337/dio-db-e_commerce)
-  - [ ] [<b>Desafio de Projeto</b> : Construa um Projeto Lógico de Banco de Dados do Zero](https://github.com/VitorFran1337/dio-unimed-workshop)
+  - [x] [<b>Desafio de Projeto</b> : Construindo seu Primeiro Projeto Lógico com Banco de Dados](https://github.com/VitorFran1337/dio-db-e_commerce)
+  - [x] [<b>Desafio de Projeto</b> : Construa um Projeto Lógico de Banco de Dados do Zero](https://github.com/VitorFran1337/dio-unimed-workshop)
   - [x] Introdução ao MongoDB e Banco de Dados NoSQL
   
     <br />
@@ -74,7 +74,7 @@ e obter seu certificados dos diversos assuntos abordados.
   <details>
   <summary><strong>Imersão Cloud Computing</strong></summary><br />
  
-  - [ ] Primeiros Passos com AWS
+  - [x] Primeiros Passos com AWS
   - [ ] [<b>Desafio de Projeto</b> : Boas Práticas com DynamoDB](link-do-repositorio)
   - [ ] Desenvolvendo Soluções Serverless na AWS
   - [ ] Introdução à Engenharia de Dados na AWS
